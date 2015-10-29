@@ -1,0 +1,25 @@
+
+	* { margin: 0; padding: 0; }
+body { overflow: hidden; position: relative;}
+.wrap { overflow: hidden;position: absolute; left: 0; right: 0; top: 0;}
+.page { position: relative; font-family:"Microsoft Yahei";width: 100%;clear: both;}
+.page1 { background: #CCC; }
+.page2 { background:#0066CC;}
+.page3 { background: #ffc0cb;}
+.page4 {background:#FF0088;}
+.page5 {background: yellow;}
+.page6 {background: black;}
+.page7 {background: green;}
+ .active {
+ 	background: black;
+ 	width: 15px;
+ 	height: 15px;
+ }
+
+ .container {
+ 	margin:0 auto;
+	width:80%;
+	position: relative;
+	
+ }
+
